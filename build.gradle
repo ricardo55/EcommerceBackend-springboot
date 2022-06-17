@@ -7,7 +7,6 @@ plugins {
 group = 'org.generation'
 version = '0.0.1-SNAPSHOT'
 
-// Se cambia la version a 1.8 para Heroku
 sourceCompatibility = '1.8'
 
 repositories {
